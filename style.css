@@ -1,0 +1,16 @@
+.menu{
+    background: mediumblue;
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.contenido{
+background: khaki;
+width: 150px;
+height: 200px;
+color: blueviolet;
+text-align: center;
+
+}
